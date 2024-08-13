@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402310854390",
+    "project_id": "yoluapp-e31ae",
+    "storage_bucket": "yoluapp-e31ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402310854390:android:b34089d62e8b32333a5ed7",
+        "android_client_info": {
+          "package_name": "com.example.yoluapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAtDBIpXJ26zbhfm3ExrzpcGREUvlwrrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
